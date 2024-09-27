@@ -1,0 +1,9 @@
+version: 1.0
+exampleshortcut:
+  execute: player
+  command: examplecommand
+  useargs: true
+exampleshortcut2:
+  execute: server
+  command: examplecommand2
+  useargs: false

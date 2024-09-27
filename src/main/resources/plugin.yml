@@ -1,0 +1,5 @@
+name: EatmyShorts
+version: '1.0'
+main: org.cptgummiball.eatmyShorts.Main
+api-version: '1.21'
+authors: [ cptgummiball ]
